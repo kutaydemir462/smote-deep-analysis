@@ -1,4 +1,4 @@
-# 🕵SMOTE Deep Analysis — Oversampling Techniques for Imbalanced Fraud Data (No Modeling)
+# SMOTE Deep Analysis — Oversampling Techniques for Imbalanced Fraud Data (No Modeling)
 
 This repo is a **hands-on, visual deep dive** into **oversampling** for imbalanced datasets using the Credit Card Fraud data.  
 It **does not train any models**. Instead, it focuses on **how different oversampling methods change the data itself** and what those changes imply for downstream modeling.
